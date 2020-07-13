@@ -1,2 +1,3 @@
 # ItsCaveTime
-Progress Tracker for bugs and features.
+Progress Tracker
+click Issues to see if I'm not dead
